@@ -764,7 +764,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-        elif query.data == "next":
+    elif query.data == "next":
         buttons= [[
             InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona'),
             InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
