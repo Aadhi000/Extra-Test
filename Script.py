@@ -384,21 +384,7 @@ To Get Sticker ID
  • 𝗆 = 𝗆𝗂𝗇𝗎𝗍𝖾𝗌
  • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
  • 𝖽 = 𝖽𝖺𝗒𝗌"""
-
-    NEXT_TXT = """➤ 𝐇𝐞𝐥𝐩: Next 𝐌𝐨𝐝𝐮𝐥𝐞../
-
-<b>By Using This Module You can store files in My database and I will You A Permanent link To access The saved Files.If You want to add files from a Public channel send the file link only or You want to store files from a Private channel you must make me admin on their to access files files.../</b>
-
-⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
-
-➪ /tts ›› <b>𝖱𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺𝗇𝗒 𝗆𝖾𝖽𝗂𝖺 𝗍𝗈 𝗀𝖾𝗍 𝗅𝗂𝗇𝗄.</b>
-➪ /pbatch ›› <b>𝖴𝗌𝖾 𝗒𝗈𝗎𝗋 𝗆e𝖽𝗂𝖺 𝗅𝗂𝗇𝗄 𝗐𝗂𝗍𝗁 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽.</b>
-➪ /batch ›› <b>To Create Link For Multiple Post.</b>
-
-⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
-
-<code>/batch https://t.me/MWUpdatez/3 https://t.me/MWUpdatez/8</code>
-
+    
     CREATOR_REQUIRED = """❗<b>You have To Be The Group Creator To Do That.</b>"""
       
     INPUT_REQUIRED = "❗ **Arguments Required**"
