@@ -82,8 +82,7 @@ async def give_filter(client, message):
         await auto_filter(client, message)
 
 @Client.on_callback_query(filters.regex(r"^next"))
-async def next_page(bot, query):   
-    if int(req) not in [query.from_user.id, 0]:
+async def next_page(bot, query):      
         return await query.answer("😁 𝗛𝗲𝘆 𝗙𝗿𝗶𝗲𝗻𝗱,𝗣𝗹𝗲𝗮𝘀𝗲 𝗦𝗲𝗮𝗿𝗰𝗵 𝗬𝗼𝘂𝗿𝘀𝗲𝗹𝗳.", show_alert=True)
     try:
         offset = int(offset)
